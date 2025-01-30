@@ -1,5 +1,7 @@
 {
   "private": true,
+  "name": "next-dashboard",
+  "version": "0.0.0",
   "scripts": {
     "build": "next build",
     "dev": "next dev --turbopack",
